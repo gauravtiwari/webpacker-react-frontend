@@ -1,0 +1,6 @@
+{
+  "app.css": "http://localhost:8080/app.css",
+  "app.css.map": "http://localhost:8080/app.css.map",
+  "app.js": "http://localhost:8080/app.js",
+  "app.js.map": "http://localhost:8080/app.js.map"
+}
