@@ -29,3 +29,4 @@
 /public/packs
 /public/entries
 /node_modules
+.yarnclean

@@ -1,12 +1,12 @@
 # Rails Webpacker React Frontend Example App
 
-Demo app that showcases Rails on webpack, react and yarn using Webpacker gem (default setup in upcoming Rails 5.1)
+Demo app that showcases Rails on webpack, react, jest and yarn using Webpacker gem (default setup in upcoming Rails 5.1)
 
 * [Webpacker](https://github.com/rails/webpacker)
 * [PR](https://github.com/rails/rails/pull/26836)
 * [Blog Post](https://medium.com/@gauravtiwari/introducing-webpacker-7136d66cddfb)
 
-# Alpha Features
+# Features
 
 Supports bundling
 * Javascript
@@ -17,7 +17,6 @@ Supports bundling
 * Jest
 * Turbolinks
 * React
-
 
 # Running in development
 
