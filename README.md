@@ -1,8 +1,6 @@
-# Rails Webpacker Example App
+# Rails Webpacker React Frontend Example App
 
-*Note: This has some experimental features, which are supposed to be merged [https://github.com/rails/webpacker/pull/153](https://github.com/rails/webpacker/pull/153) into webpacker Gem. Please follow the blog post to setup a fresh app.*
-
-Demo app that showcases Rails on webpack and yarn using Webpacker gem (default setup in upcoming Rails 5.1)
+Demo app that showcases Rails on webpack, react and yarn using Webpacker gem (default setup in upcoming Rails 5.1)
 
 * [Webpacker](https://github.com/rails/webpacker)
 * [PR](https://github.com/rails/rails/pull/26836)
@@ -16,7 +14,9 @@ Supports bundling
 * Images
 * Fonts
 * Linking assets
-* CND - Cloudfront
+* Jest
+* Turbolinks
+* React
 
 
 # Running in development
@@ -24,8 +24,8 @@ Supports bundling
 The app is using [foreman](https://github.com/ddollar/foreman), famous process manager. Checkout the `Procfile.dev` in app root for more information.
 
 ```bash
-  git clone git@github.com:gauravtiwari/webpacker-example-app.git
-  cd webpacker-example-app
+  git clone git@github.com:gauravtiwari/webpacker-react-frontend.git
+  cd webpacker-react-frontend
   bundle install
   brew install yarn # (if not installed)
   ./bin/yarn install
