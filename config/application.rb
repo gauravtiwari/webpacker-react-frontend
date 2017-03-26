@@ -6,7 +6,7 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-module WebpackerExampleApp
+module WebpackerReactFrontend
   class Application < Rails::Application
     if defined? Rack::Cors
       Rails.configuration.middleware.insert_before 0, Rack::Cors do
