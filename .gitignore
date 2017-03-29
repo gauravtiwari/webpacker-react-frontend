@@ -30,3 +30,5 @@
 /public/entries
 /node_modules
 .yarnclean
+/public/packs
+/node_modules
