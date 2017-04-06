@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/rails/web-console.git
-  revision: 3a6864a04d9cd346a538add1f662b1356d7ebe19
+  revision: b1fc057676204f069cab7dc86eb3b382320c25b6
   specs:
-    web-console (3.4.0)
+    web-console (3.5.0)
       actionview (>= 5.0)
       activemodel (>= 5.0)
       bindex (>= 0.4.0)
@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/webpacker.git
-  revision: 3564a1cb13d59786c7a1aa5c93d42a47d8f726b4
+  revision: 5e4f2389ab30aceaf4afea7aa5e4e40303d31b37
   specs:
     webpacker (1.1)
       activesupport (>= 4.2)
@@ -133,7 +133,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
-    uglifier (3.1.11)
+    uglifier (3.1.13)
       execjs (>= 0.3.0, < 3)
     webpacker-react (0.2.0)
       webpacker
